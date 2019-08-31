@@ -1,0 +1,215 @@
+/*autors name:badhon roy 
+autors info:badhon.pub38@gmail.com;
+*/
+
+
+
+
+/*
+
+/*
+
+====INDEX====
+
+   1.HOME        
+   2.HOW IT WORKS        
+   3.DISCOVER A PROJECT        
+   4.BLOG        
+   5.FIND OUT MORE
+==========
+*/
+
+/*GLOBAL CSS */
+
+section {
+  padding: 110px 0;
+}
+
+
+
+
+
+
+/* THEMES CSS */
+/*nav SECTION START */
+.navbar-new{
+    background-color: #FFFF;
+    padding-bottom: 20px;
+
+}
+.nev-color li a{
+  color: gray;
+}
+/*nav SECTION END */
+
+
+/*HERO SECTION START */
+.sec-one{
+     background: url(../img/banner.png);
+    background-size: cover;
+    color: #fff;
+    }
+.sce-back{
+
+}
+.sec-file h1{
+        text-align: center;
+    padding-top: 150px;
+}
+.sec-file p{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.btn-one{
+margin: 0 auto;
+    text-align: center;
+    display: block;
+    margin-top: 50px;
+    background: #99c50a;
+    color: #ffff;
+    border: none;
+}
+/*HERO SECTION END */
+
+
+
+/*TWO SECTION START */
+.text-part{
+    text-align: center;
+}
+.text-part h2{
+    padding-top: 65px;
+}
+.text-part p{
+        padding-top: 30px;
+}
+.workes-file{
+  margin-bottom: -153px;
+}
+/*TWO SECTION END */
+
+
+/*THREE SECTION START */
+.one{
+
+background-color: #e2f8ff;
+}
+.two{
+background-color: #f5f9eb;
+}
+.btn-two{
+background-color: #add136;
+color: #fff;
+}
+/*THREE SECTION END */
+
+
+/*FOUR SECTION START */
+.dicover-section{
+ width: 99%;
+}
+.part-one{
+ background: #e2f8ff;
+    padding: 77px;
+}
+.part-two{
+  padding: 77px;
+  background-color: #f5f9eb;
+}
+.img-part{
+position: relative;
+}
+.img-part-two{
+ position: absolute;
+    top: 25px;
+}
+/*FOUR SECTION END */
+/* FIVE SECTION START */
+.btn-three{
+      background: white;
+    border: 1px solid;
+}
+.find-file{
+
+}
+.find-file p{
+     
+}
+
+
+/* FIVE SECTION END */
+
+/* SIX PART START */
+.card-file{
+      position: relative;
+}
+.btn-cou{
+    position: relative;
+    top: -9%;
+    margin: -37px 100px 3px;
+    left: 25%;
+}
+/* SIX PART END */
+
+/* seven part start */
+.img-padd img{
+    padding-bottom: 25px;
+}
+/* seven part end */
+/*FOOTER SECTION START */
+.footer-files{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 32px;
+    color: gray;
+    font-size: 42%;
+    border-top: 1px solid;
+}
+/*FOOTER SECTION END */
+
+
+/* media query */
+
+
+/* for mobile */
+@media (min-width:320px) and (max-width: 768px){
+.img-part {
+    padding-bottom: 154px;
+    position: relative;
+    text-align: center;
+    /* margin: 0 auto; */
+}
+.img-part-two {
+    position: absolute;
+    top: -58px;
+    left: 25%;
+}
+.find-file h3{
+      margin-top: -80px;
+    text-align: center;
+}
+.find-file p{
+      
+    text-align: center;
+}
+.blog-files h1{
+  text-align: center;
+    margin-top: -193px;
+}
+.blog-files p{
+    text-align: center;
+}
+
+.btn-cou {
+    position: relative;
+    top: -3%;
+    margin: -95px 87px 32px;
+    left: 25%;
+}
+
+/* for tab */
+@media (min-width: 768.1px) and (max-width: 1200px){
+
+
+
