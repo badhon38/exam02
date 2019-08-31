@@ -204,6 +204,13 @@ position: relative;
 .blog-files p{
     text-align: center;
 }
+.btn-three {
+    text-align: center;
+    background: white;
+    border: 1px solid;
+    margin: 0 auto;
+    margin-left: 30%;
+}
 
 .btn-cou {
     position: relative;
